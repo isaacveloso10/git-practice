@@ -1,0 +1,3 @@
+Name: Isaac
+Age: 29
+Favorite color: Black
